@@ -1,0 +1,21 @@
+* Minutes
+** <2014-11-07 Fri 17:00-18:30>
+Assistance: 6 persons
+It is espected two new incorporations.
+Remember that participation is open to everyone!
+
+Decisions
+- The meetings will be weekly. All members come and discuss general topics for 30 min.
+- Pedro asumes role of "technical secretary": minutes, comunication, blabla.
+
+Tasks
+- Investigate on assembly of finger's prototype (with servo motors) [Joan]
+- Request lockers to store material in hacklab [Aurelio/Marcel]
+- Buy servo motor [Mario]
+- Blog, organization, organize the group [Pedro]
+- Request computer 100% autonomous [Pedro]
+- Github for ROBOT group [Pedro]
+- Upload photo of brainstorming [Mario]
+
+Next meeting have to be decided:
+http://doodle.com/av9z3957yscez5ia
