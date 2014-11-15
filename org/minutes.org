@@ -40,6 +40,16 @@ http://doodle.com/av9z3957yscez5ia
 [Media]
 - Brainstorm photo (missing)
 - [[https://docs.google.com/uc?id=0B6rX6PgzeBdyT1doUFdBZWVtaFE&export=download][finger sensor]]
-- [[https://docs.google.com/uc?id=0B6rX6PgzeBdyT1doUFdBZWVtaFE&export=download][finger potentiometer]]
+- [[https://docs.google.com/uc?id=0B6rX6PgzeBdybXhUMkZqanZ3bjQ&export=download][finger potentiometer]]
 - [[https://docs.google.com/uc?id=0B6rX6PgzeBdyd0ppWWN6RXZlS0E&export=download][finger matlab]]
-- [[https://docs.google.com/uc?id=0B6rX6PgzeBdydU9JbS05N3RRYTQ&export=download][emg test]]
+- [[https://docs.google.com/uc?id=0B6rX6PgzeBdyZXI2MVhxVC1QT0E&export=download][emg test]]
+** The initial idea in the mailing list
+Construct this robot consisting on 3d printable pieces and arduino logic:
+http://www.inmoov.fr/gallery/
+
+Schemes:
+- http://www.inmoov.fr/download/
+- https://www.wevolver.com/gael.langevin/inmoov-robot/network
+
+Let's start with the fingers!
+http://www.thingiverse.com/thing:17773

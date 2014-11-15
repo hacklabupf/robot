@@ -1,14 +1,8 @@
 * Storage
-The place where we put media is on [[https://drive.google.com/folderview?id=0B6rX6PgzeBdydU9JbS05N3RRYTQ&usp=drive_web][google drive]]
-
-Github itself is not a good idea [[][1]] [[][2]]. But we should investigate about [[https://git-annex.branchable.com/][git-annex]]
+The place where we put media is on [[https://drive.google.com/folderview?id=0B6rX6PgzeBdydU9JbS05N3RRYTQ&usp=drive_web][google drive]]. Github itself is not a good idea [[https://help.github.com/articles/working-with-large-files/][(1)]] [[https://help.github.com/articles/what-is-my-disk-quota/][(2)]]. But we should investigate about [[https://git-annex.branchable.com/][git-annex]]
 
 How to make a direct download link to the video?
 
-This is default view of the file that we don't want
+This is default view of the file that we don't want: https://drive.google.com/file/d/<id_file>/view?usp=sharing
 
-https://drive.google.com/file/d/<id_file>/view
-
-replace it to:
-
-https://docs.google.com/uc?id=<id_file>&export=download
+replace it to: https://docs.google.com/uc?id=<id_file>&export=download
