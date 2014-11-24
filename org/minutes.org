@@ -1,4 +1,8 @@
 * Minutes
+** <2014-11-18 Tue 12:30>
+- We discussed how to progress this week and decided to try and have a
+  small demo of the arm before Christmas holiday.
+- Joan created a [[https://www.youtube.com/channel/UC7YZ1fKL6FYQ0brrUDsTd_g][Youtube's channel for the videos]]
 ** <2014-11-13 Thu 15:00-15:30>
 [Topics]
 - Mario breifly explain about the project to our new member Marti (Hi Marti!)
